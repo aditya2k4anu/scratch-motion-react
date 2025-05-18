@@ -1,4 +1,13 @@
 {
+  "homepage": "https://aditya2k4anu.github.io/scratch-motion-react-main",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    // keep your existing scripts here
+  }
+}
+
+{
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
