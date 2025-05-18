@@ -3,7 +3,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    // keep your existing scripts here
+
   }
 }
 
